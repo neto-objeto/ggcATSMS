@@ -1,0 +1,48 @@
+X:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\bin\Debug\ATSMS.dll
+X:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\bin\Debug\ATSMS.pdb
+X:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\bin\Debug\ATSMS.xml
+\\192.168.20.220\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.Resources.resources
+\\192.168.20.220\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbproj.GenerateResource.Cache
+\\192.168.20.220\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.dll
+\\192.168.20.220\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.xml
+\\192.168.20.220\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.pdb
+D:\GCO_Systems\ATSMS.dll
+D:\GCO_Systems\ATSMS.pdb
+D:\GCO_Systems\ATSMS.xml
+\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbprojResolveAssemblyReference.cache
+\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.Resources.resources
+\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbproj.GenerateResource.Cache
+\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.dll
+\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.xml
+\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.pdb
+D:\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbprojResolveAssemblyReference.cache
+D:\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.Resources.resources
+D:\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbproj.GenerateResource.Cache
+D:\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.dll
+D:\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.xml
+D:\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.pdb
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.Resources.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbproj.GenerateResource.Cache
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.dll
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.xml
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.pdb
+X:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.Resources.resources
+X:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbproj.GenerateResource.Cache
+X:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.dll
+X:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.xml
+X:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.pdb
+Y:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.Resources.resources
+Y:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbproj.GenerateResource.Cache
+Y:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.dll
+Y:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.xml
+Y:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.pdb
+\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.Resources.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbproj.GenerateResource.Cache
+\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.dll
+\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.xml
+\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.pdb
+Z:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.Resources.resources
+Z:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbproj.GenerateResource.Cache
+Z:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.dll
+Z:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.xml
+Z:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.pdb

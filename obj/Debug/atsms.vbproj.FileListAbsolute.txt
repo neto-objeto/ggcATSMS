@@ -1,0 +1,8 @@
+C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\bin\Debug\ATSMS.dll
+C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\bin\Debug\ATSMS.pdb
+C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\bin\Debug\ATSMS.xml
+C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\obj\Debug\ATSMS.Resources.resources
+C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\obj\Debug\atsms.vbproj.GenerateResource.Cache
+C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\obj\Debug\ATSMS.dll
+C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\obj\Debug\ATSMS.xml
+C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\obj\Debug\ATSMS.pdb

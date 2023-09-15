@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="ATSMS.Common.AbstractObject" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\AbstractObject.vb</FileName>
+      <HashCode>AAIAAAAEAgAAAAEAAAEAAAACAAABAAAAAAUAAAAADAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.Common.Resource" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\Resource.vb</FileName>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.Common.ReturnCode" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\ReturnCode.vb</FileName>
+      <HashCode>RgmLuYQRACBAAVNzgJBCBVFqNggSuYCEBCAzFIpGYCI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.NewDeliveryReportEventArgs" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>events\NewDeliveryReportEventArgs.vb</FileName>
+      <HashCode>AAAAAAAEABAAAAAAIAAAAAAAADEAABEgAAAAIAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.NewIncomingCallEventArgs" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>events\NewIncomingCallEventArgs.vb</FileName>
+      <HashCode>AAAACAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.NewMessageReceivedEventArgs" Collapsed="true">
+    <Position X="15.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>events\NewMessageReceivedEventArgs.vb</FileName>
+      <HashCode>AAAgBEAAAAAAAAQAAAACIAAABAQACAAAAAgQARABACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.OutboxSMSSendingEventArgs" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>events\OutboxSMSSendingEventArgs.vb</FileName>
+      <HashCode>AAAAACAAAAAABAAGBAAAAAAAAAAAAAEAAAAAIAAACAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.OutboxSMSSentEventArgs" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>events\OutboxSMSSentEventArgs.vb</FileName>
+      <HashCode>AAAECCABAAAAAgAChAAAAAAgAAgAAAEAAAAAIAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.ConnectionException" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>exception\ConnectionException.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.GeneralException" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>exception\GeneralException.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.InvalidCommandException" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>exception\InvalidCommandException.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.InvalidOpException" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>exception\InvalidOpException.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.UnknownException" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>exception\UnknownException.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.ATHandler" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>modem\ATHandler.vb</FileName>
+      <HashCode>gJGMGgKHEg1JRQFBBQFJoEgBgBApVAmMLDK4hgAJlOA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.Battery" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>modem\Battery.vb</FileName>
+      <HashCode>QAAAAAQAAAAAAAAAgAAAAABAAgAAAAACEAAAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.GSMModem" Collapsed="true">
+    <Position X="0.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>modem\GSMModem.vb</FileName>
+      <HashCode>SRBRQYQCYCBAlAQgIggQIIIRAgAlpQghEQlkqxUKA5M=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ATSMS.Location" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>modem\Location.vb</FileName>
+      <HashCode>AAAAAAgAQAAABAAEAAAAAAAAAIAAAAAAAACAAAAIAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.Modem" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>modem\Modem.vb</FileName>
+      <HashCode>QA4ACS2gQiAAwJhABAAEBIwgimoSgGcAEAwkFACcQgA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ATSMS.Rssi" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>modem\RSSI.vb</FileName>
+      <HashCode>gAAAAACAAQAAAAAAAACAAAAAAAAABAAQAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SerialDriver" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>modem\SerialDriver.vb</FileName>
+      <HashCode>AAgQAQAAAAAIAAAAAEAAAAAACAAAAAAAAAAASACAABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.Storage" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>modem\Storage.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAQgAAAAQAAAAAAAAAAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.Runner" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\Runner.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.My.MySettings" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.Decoder.SMSBase" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\Decoder.vb</FileName>
+      <HashCode>AAAAAAAAACGAAAAAAYAEBAAIAACBAAACAQQgGBgICEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.Decoder.SMS_RECEIVED" Collapsed="true">
+    <Position X="1.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\Decoder.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAIAAAIAAIAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.Decoder.SMS_SUBMIT" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\Decoder.vb</FileName>
+      <HashCode>AQAAAAAAAAAAAAACAIAAAAAAAAAAAAAAAgAAgAAAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.Decoder.EMS_RECEIVED" Collapsed="true">
+    <Position X="0.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\Decoder.vb</FileName>
+      <HashCode>CAAAEAAAAAAAEAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.Decoder.EMS_SUBMIT" Collapsed="true">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\Decoder.vb</FileName>
+      <HashCode>CAAAAAAAAAAAEAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.Decoder.SMS_STATUS_REPORT" Collapsed="true">
+    <Position X="3" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\Decoder.vb</FileName>
+      <HashCode>AEAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.Decoder.PDUDecoder" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\Decoder.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.Encoder.SMS" Collapsed="true">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\Encoder.vb</FileName>
+      <HashCode>gQAAAQAACCCoAQACAAAAgABBAAQBCAKAIAAIgBEACEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.Encoder.ConcatenatedShortMessage" Collapsed="true">
+    <Position X="3.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\Encoder.vb</FileName>
+      <HashCode>AIAAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.HexDecoder" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\HexDecoder.vb</FileName>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAABAAACAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.Message" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\Message.vb</FileName>
+      <HashCode>AAAAAAIAAQAAAAAEAIAEAAAAgAAABAAAAAIAIAABCBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.MessageStore" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\MessageStore.vb</FileName>
+      <HashCode>AAJCAAAAAQBACAAAAAAABAAEEAAAAAAAAAgEIAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.Outbox" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\Outbox.vb</FileName>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.PDU" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\PDU.vb</FileName>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.PushMessage" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\PushMessage.vb</FileName>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAABAgAAAgAAAggEAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.ServiceIndication" Collapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\ServiceIndication.vb</FileName>
+      <HashCode>AAAUAEAAFAAABABiiCACAQGAIABiAAhYgAAAMAAAEAU=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.SMSMessage" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\SMSMessage.vb</FileName>
+      <HashCode>AAAAAMAIAQAACAQAAAACYAAAAAEACAAAAAEACAAAEAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.vCalendar" Collapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\vCalendar.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.vCard" Collapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\vCard.vb</FileName>
+      <HashCode>ACRBQEAAACAAAEAUEAASAAACAAAIAAAAACAAQAEIIAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.WapPushMessage" Collapsed="true">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\WapPushMessage.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAYAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.WBXML" Collapsed="true">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\WBXML.vb</FileName>
+      <HashCode>AABAABAAAAAAAAAAAAAAAAAAACABgIAAIAAAAAAAEAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.WDP" Collapsed="true">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\WDP.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ATSMS.SMS.WSP" Collapsed="true">
+    <Position X="18.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\WSP.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgACIAAAAACAEAgAEAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ATSMS.Common.EnumEncoding" Collapsed="true">
+    <Position X="17" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\Enum.vb</FileName>
+      <HashCode>AAACAAAAAAACAAAAACAAAAAAAAAAAAAAAAAIABAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.Common.EnumBaudRate" Collapsed="true">
+    <Position X="13.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\Enum.vb</FileName>
+      <HashCode>AARAAAAACQAAAAAAAAAAAAAABAkAAYAAAAIAACAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.Common.EnumDataBits" Collapsed="true">
+    <Position X="15.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\Enum.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAIAAAAAFAAAAAAAAAAgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.Common.EnumParity" Collapsed="true">
+    <Position X="18.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\Enum.vb</FileName>
+      <HashCode>AIAAACAACAAAAAAAAAAAAAAAAAAAAAAAAACAAAEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.Common.EnumStopBits" Collapsed="true">
+    <Position X="11.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\Enum.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAgAAAEAAIA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.Common.EnumFlowControl" Collapsed="true">
+    <Position X="18.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\Enum.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAgAAAEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.Common.EnumLogType" Collapsed="true">
+    <Position X="11.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\Enum.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQACAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.Common.EnumLongMessage" Collapsed="true">
+    <Position X="13.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\Enum.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAAAAAEAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.Common.EnumMessageMemory" Collapsed="true">
+    <Position X="15.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\Enum.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.Common.EnumQueuePriority" Collapsed="true">
+    <Position X="10" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\Enum.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAgIAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.Common.EnumHandsake" Collapsed="true">
+    <Position X="10" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\Enum.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAECEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.Common.EnumMessageType" Collapsed="true">
+    <Position X="17" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>common\Enum.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.SMS.ENUM_TP_VPF" Collapsed="true">
+    <Position X="11.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\MessageEnum.vb</FileName>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.SMS.ENUM_TP_SRI" Collapsed="true">
+    <Position X="15.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\MessageEnum.vb</FileName>
+      <HashCode>AAAAEAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.SMS.ENUM_TP_SRR" Collapsed="true">
+    <Position X="17" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\MessageEnum.vb</FileName>
+      <HashCode>AAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.SMS.ENUM_TP_DCS" Collapsed="true">
+    <Position X="10" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\MessageEnum.vb</FileName>
+      <HashCode>ABAAAwAAAgQAAAAEAKAAQCGAUEwACiAkAAAkAAwMAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.SMS.ENUM_TP_VALID_PERIOD" Collapsed="true">
+    <Position X="10" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\MessageEnum.vb</FileName>
+      <HashCode>gAAAAIAAABAAAAAQAQAAkAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.SMS.ENUM_TP_MTI" Collapsed="true">
+    <Position X="11.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\MessageEnum.vb</FileName>
+      <HashCode>AAAAAAAAAAABAAEAAAAAACAAAAAAAAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.SMS.SMSType" Collapsed="true">
+    <Position X="15.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\MessageEnum.vb</FileName>
+      <HashCode>ABAIAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAACAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.SMS.ENUM_TP_RP" Collapsed="true">
+    <Position X="13.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\MessageEnum.vb</FileName>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.SMS.ENUM_TP_UDHI" Collapsed="true">
+    <Position X="18.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\MessageEnum.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ATSMS.SMS.ServiceIndicationAction" Collapsed="true">
+    <Position X="13.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>sms\ServiceIndication.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAACAAAAgCQAAAAAAAAAAAAAAAggAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Module Name="ATSMS.My.Resources.Resources" Collapsed="true">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="ATSMS.My.MySettingsProperty" Collapsed="true">
+    <Position X="10" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+</ClassDiagram>

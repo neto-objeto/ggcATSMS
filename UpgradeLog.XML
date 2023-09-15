@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="atsms">
+</Property><Property Name="Solution File" Value="C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\atsms.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\atsms.suo">
+</Property><Property Name="Date" Value="Wednesday, July 24, 2013">
+</Property><Property Name="Time" Value="3:59 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="atsms.sln" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\atsms.sln">
+</Event><Event ErrorLevel="0" Project="" Source="atsms.suo" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\atsms.suo">
+</Event><Event ErrorLevel="0" Project="atsms" Source="atsms.vbproj" Description="Project file successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\atsms.vbproj">
+</Event><Event ErrorLevel="0" Project="atsms" Source="common\AbstractObject.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\common\AbstractObject.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="common\Resource.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\common\Resource.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="common\ReturnCode.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\common\ReturnCode.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="common\Enum.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\common\Enum.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="exception\ConnectionException.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\exception\ConnectionException.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="exception\GeneralException.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\exception\GeneralException.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="exception\InvalidCommandException.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\exception\InvalidCommandException.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="exception\InvalidOpException.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\exception\InvalidOpException.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="exception\UnknownException.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\exception\UnknownException.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="modem\ATHandler.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\modem\ATHandler.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="modem\RSSI.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\modem\RSSI.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="modem\SerialDriver.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\modem\SerialDriver.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="modem\Battery.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\modem\Battery.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="events\NewDeliveryReportEventArgs.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\events\NewDeliveryReportEventArgs.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="events\NewIncomingCallEventArgs.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\events\NewIncomingCallEventArgs.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="events\NewMessageReceivedEventArgs.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\events\NewMessageReceivedEventArgs.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="events\OutboxSMSSendingEventArgs.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\events\OutboxSMSSendingEventArgs.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="events\OutboxSMSSentEventArgs.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\events\OutboxSMSSentEventArgs.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\MessageEnum.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\MessageEnum.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\MessageStore.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\MessageStore.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="modem\Location.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\modem\Location.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="modem\Modem.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\modem\Modem.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\Message.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\Message.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\Outbox.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\Outbox.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="modem\GSMModem.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\modem\GSMModem.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\SMSMessage.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\SMSMessage.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="modem\Storage.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\modem\Storage.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\HexDecoder.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\HexDecoder.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\PushMessage.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\PushMessage.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\Runner.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\Runner.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\ServiceIndication.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\ServiceIndication.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\WapPushMessage.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\WapPushMessage.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\WBXML.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\WBXML.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\WDP.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\WDP.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\WSP.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\WSP.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\vCalendar.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\vCalendar.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\vCard.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\vCard.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\Decoder.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\Decoder.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\Encoder.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\Encoder.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="sms\PDU.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\sms\PDU.vb">
+</Event><Event ErrorLevel="0" Project="atsms" Source="atsms.cd" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\atsms.cd">
+</Event><Event ErrorLevel="0" Project="atsms" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="atsms" Source="My Project\Settings.settings" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="atsms" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="atsms" Source="atsms.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="atsms" Source="atsms.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="atsms" Source="atsms.vbproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="demo" Source="..\demo\demo.vbproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\demo.vbproj" Description="Project file successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\demo.vbproj">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\PDUDecoder.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\PDUDecoder.vb">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\PDUEncoder.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\PDUEncoder.vb">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\TestATSMS.designer.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\TestATSMS.designer.vb">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\TestATSMS.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\TestATSMS.vb">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\TestWaveComm.Designer.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\TestWaveComm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\TestWaveComm.vb" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\TestWaveComm.vb">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\My Project\Application.myapp" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\My Project\Settings.settings" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\My Project\Resources.resx" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\TestATSMS.resx" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\TestATSMS.resx">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\TestWaveComm.resx" Description="File successfully backed up as C:\Users\Jeffrey\Downloads\atsms_v1.0.5_src\atsms\atsms\Backup\demo\TestWaveComm.resx">
+</Event><Event ErrorLevel="1" Project="demo" Source="..\demo\demo.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\demo.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="demo" Source="..\demo\demo.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="atsms.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="atsms.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="atsms" Source="atsms.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="demo" Source="..\demo\demo.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
