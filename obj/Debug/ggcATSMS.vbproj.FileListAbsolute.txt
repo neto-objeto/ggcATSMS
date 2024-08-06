@@ -46,3 +46,13 @@ Z:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbproj.Gene
 Z:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.dll
 Z:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.xml
 Z:\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.pdb
+C:\GGC_Systems\vb.net\ATSMS.dll
+C:\GGC_Systems\vb.net\ATSMS.pdb
+C:\GGC_Systems\vb.net\ATSMS.xml
+D:\Guanzon\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbproj.AssemblyReference.cache
+D:\Guanzon\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.Resources.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbproj.GenerateResource.cache
+D:\Guanzon\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ggcATSMS.vbproj.CoreCompileInputs.cache
+D:\Guanzon\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.dll
+D:\Guanzon\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.xml
+D:\Guanzon\GMC SEG Folder\vb.net\My Applications\ggcATSMS\obj\Debug\ATSMS.pdb
